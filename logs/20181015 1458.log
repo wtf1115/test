@@ -1,0 +1,10 @@
+2018-10-15 14:58:34,405 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:58:34,405 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:58:37,831 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:58:45,468 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:58:46,584 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:58:46,585 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:58:59,132 - BasePage - INFO - Successfully open the specified web page
+2018-10-15 14:59:01,335 - BasePage - INFO - Successful input
+2018-10-15 14:59:01,436 - BasePage - INFO - Successful input
+2018-10-15 14:59:01,535 - BasePage - INFO - 点击登录元素成功.

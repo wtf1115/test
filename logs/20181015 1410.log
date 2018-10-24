@@ -1,0 +1,13 @@
+2018-10-15 14:10:00,231 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:10:00,231 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:10:03,599 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:10:11,238 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:10:12,395 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:10:12,398 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:10:24,469 - BasePage - INFO - Successfully open the specified web page
+2018-10-15 14:10:24,615 - BasePage - INFO - Successful input
+2018-10-15 14:10:24,714 - BasePage - INFO - Successful input
+2018-10-15 14:10:24,817 - BasePage - ERROR - 点击元素登录失败
+2018-10-15 14:10:39,043 - BasePage - INFO - Successful input
+2018-10-15 14:10:39,190 - BasePage - ERROR - 点击元素失败
+2018-10-15 14:10:53,772 - BasePage - ERROR - <helppage.Help_searchpage.Helpsearchpage object at 0x03F0AEF0> 页面中未能找到 ('css selector', '#nv_search #ct .tl .xs3 a') 元素

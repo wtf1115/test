@@ -1,0 +1,20 @@
+2018-10-15 15:32:22,460 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 15:32:22,460 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 15:32:25,768 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 15:32:33,077 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 15:32:34,243 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 15:32:34,245 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 15:32:46,563 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:33:14,031 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:33:30,926 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:33:43,994 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:33:44,701 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:34:00,614 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:34:14,577 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:34:16,737 - BasePage - INFO - The element 比比看谁笨 was print.
+2018-10-15 15:34:16,795 - BasePage - INFO - The element 1.  崔泽明 was print.
+2018-10-15 15:34:16,854 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 15:34:16,913 - BasePage - INFO - The element 2.  张志强 was print.
+2018-10-15 15:34:16,977 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 15:34:17,036 - BasePage - INFO - The element 3.  刘彩凤 was print.
+2018-10-15 15:34:17,095 - BasePage - INFO - The element 100.00% (1) was print.

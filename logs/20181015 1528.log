@@ -1,0 +1,10 @@
+2018-10-15 15:28:29,276 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 15:28:29,276 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 15:28:32,624 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 15:28:40,500 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 15:28:41,642 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 15:28:41,644 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 15:28:54,752 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:29:09,197 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:29:13,489 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:29:30,690 - BasePage - ERROR - <helppage.Help_articlepage.Helpthirdpage object at 0x03648ED0> 页面中未能找到('css selector', '#nv_forum #wp #ct #postmessage_33')元素

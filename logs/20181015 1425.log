@@ -1,0 +1,14 @@
+2018-10-15 14:25:18,638 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:25:18,639 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:25:22,031 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:25:30,032 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:25:31,181 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:25:31,182 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:25:43,188 - BasePage - INFO - Successfully open the specified web page
+2018-10-15 14:25:43,331 - BasePage - INFO - Successful input
+2018-10-15 14:25:43,440 - BasePage - INFO - Successful input
+2018-10-15 14:25:43,522 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="ccea936ee15b49f7602f2ac6cfcb4c64", element="0.20875785056856588-3")>元素成功.
+2018-10-15 14:25:58,746 - BasePage - INFO - Successful input
+2018-10-15 14:25:58,857 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="ccea936ee15b49f7602f2ac6cfcb4c64", element="0.7891748512356653-2")>元素成功.
+2018-10-15 14:26:03,033 - BasePage - INFO - 点击<selenium.webdriver.remote.webelement.WebElement (session="ccea936ee15b49f7602f2ac6cfcb4c64", element="0.5365152418334953-1")>元素成功.
+2018-10-15 14:26:20,903 - BasePage - ERROR - <helppage.Help_articlepage.Helpthirdpage object at 0x0409AF10> 页面中未能找到 ('css selector', '#postlist .plhin .pcb .t_fsz #postmessage_23') 元素

@@ -1,0 +1,9 @@
+2018-10-15 12:42:13,991 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 12:42:13,992 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 12:42:17,681 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 12:42:24,822 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 12:42:25,977 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 12:42:25,978 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 12:42:37,903 - BasePage - INFO - Successfully open the specified web page
+2018-10-15 12:42:40,071 - BasePage - INFO - Successful input
+2018-10-15 12:42:40,175 - BasePage - INFO - Successful input

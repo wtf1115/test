@@ -1,0 +1,14 @@
+2018-10-15 14:14:16,365 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:14:16,366 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:14:19,799 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:14:27,648 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:14:28,813 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:14:28,814 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:14:41,132 - BasePage - INFO - Successfully open the specified web page
+2018-10-15 14:14:41,278 - BasePage - INFO - Successful input
+2018-10-15 14:14:41,383 - BasePage - INFO - Successful input
+2018-10-15 14:14:41,495 - BasePage - ERROR - 点击元素登录失败
+2018-10-15 14:14:55,769 - BasePage - INFO - Successful input
+2018-10-15 14:14:55,915 - BasePage - ERROR - 点击元素失败
+2018-10-15 14:15:00,117 - BasePage - ERROR - 点击元素lpp失败
+2018-10-15 14:15:17,260 - BasePage - ERROR - <helppage.Help_articlepage.Helpthirdpage object at 0x03CE0E90> 页面中未能找到 ('css selector', '#postlist .plhin .pcb .t_fsz #postmessage_23') 元素

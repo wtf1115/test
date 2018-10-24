@@ -1,0 +1,54 @@
+2018-10-15 15:35:00,329 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 15:35:00,329 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 15:35:03,663 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 15:35:11,466 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 15:35:12,584 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 15:35:12,586 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 15:35:27,389 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:35:53,877 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:36:07,267 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:36:08,645 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:36:08,646 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 15:36:08,646 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 15:36:11,972 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 15:36:19,826 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 15:36:20,979 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 15:36:20,980 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 15:36:33,677 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:36:49,119 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:24,764 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:26,282 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:26,452 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:28,103 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:43,706 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:51,613 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:37:51,614 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 15:37:51,614 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 15:37:54,909 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 15:38:01,673 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 15:38:02,827 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 15:38:02,829 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 15:38:15,231 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:38:30,213 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:38:34,411 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:38:51,319 - BasePage - ERROR - <helppage.Help_articlepage.Helpthirdpage object at 0x03E83CD0> 页面中未能找到('css selector', '#nv_forum #wp #ct #postmessage_36')元素
+2018-10-15 15:38:51,325 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 15:38:51,326 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 15:38:54,751 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 15:39:01,923 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 15:39:03,061 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 15:39:03,065 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 15:39:15,672 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:40:22,704 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:40:44,712 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:40:56,902 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:41:02,557 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:41:17,222 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:41:31,453 - BasePage - INFO - The element  was clicked.
+2018-10-15 15:41:33,586 - BasePage - INFO - The element 比比看谁笨 was print.
+2018-10-15 15:41:33,679 - BasePage - INFO - The element 1.  崔泽明 was print.
+2018-10-15 15:41:33,745 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 15:41:33,808 - BasePage - INFO - The element 2.  张志强 was print.
+2018-10-15 15:41:33,872 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 15:41:33,935 - BasePage - INFO - The element 3.  刘彩凤 was print.
+2018-10-15 15:41:33,999 - BasePage - INFO - The element 100.00% (1) was print.
